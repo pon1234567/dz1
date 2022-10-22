@@ -12,3 +12,4 @@ dog1=Dog(
 )
 print(dog1.name)
 print(dog1.age)
+print(dog1.breed)
